@@ -1,0 +1,27 @@
+.button_node {
+  margin: 10px 10px 10px 10px;
+  height: 100px;
+  width: 120px;
+  word-wrap: break-word;
+  background-color: gray;
+  border-color: gray;
+}
+
+.cart-node {
+  text-align: center;
+}
+.dl-container{
+  margin: 0 10px 0 10px;
+}
+
+.section-title {
+  visibility: "visible";
+}
+
+.cartStatus {
+   visibility: "visible";
+}
+
+#root{
+  margin: 10px;
+}
